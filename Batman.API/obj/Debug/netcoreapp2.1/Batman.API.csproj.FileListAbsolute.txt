@@ -1,0 +1,14 @@
+/Users/henrykeen/Projects/Batman/Batman.API/bin/Debug/netcoreapp2.1/Batman.API.deps.json
+/Users/henrykeen/Projects/Batman/Batman.API/bin/Debug/netcoreapp2.1/Batman.API.runtimeconfig.json
+/Users/henrykeen/Projects/Batman/Batman.API/bin/Debug/netcoreapp2.1/Batman.API.runtimeconfig.dev.json
+/Users/henrykeen/Projects/Batman/Batman.API/bin/Debug/netcoreapp2.1/Batman.API.dll
+/Users/henrykeen/Projects/Batman/Batman.API/bin/Debug/netcoreapp2.1/Batman.API.pdb
+/Users/henrykeen/Projects/Batman/Batman.API/obj/Debug/netcoreapp2.1/Batman.API.csprojAssemblyReference.cache
+/Users/henrykeen/Projects/Batman/Batman.API/obj/Debug/netcoreapp2.1/Batman.API.csproj.CoreCompileInputs.cache
+/Users/henrykeen/Projects/Batman/Batman.API/obj/Debug/netcoreapp2.1/Batman.API.RazorAssemblyInfo.cache
+/Users/henrykeen/Projects/Batman/Batman.API/obj/Debug/netcoreapp2.1/Batman.API.RazorAssemblyInfo.cs
+/Users/henrykeen/Projects/Batman/Batman.API/obj/Debug/netcoreapp2.1/Batman.API.AssemblyInfoInputs.cache
+/Users/henrykeen/Projects/Batman/Batman.API/obj/Debug/netcoreapp2.1/Batman.API.AssemblyInfo.cs
+/Users/henrykeen/Projects/Batman/Batman.API/obj/Debug/netcoreapp2.1/Batman.API.RazorTargetAssemblyInfo.cache
+/Users/henrykeen/Projects/Batman/Batman.API/obj/Debug/netcoreapp2.1/Batman.API.dll
+/Users/henrykeen/Projects/Batman/Batman.API/obj/Debug/netcoreapp2.1/Batman.API.pdb
